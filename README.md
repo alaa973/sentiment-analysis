@@ -25,8 +25,7 @@ With TF IDF vectorizer: 82% accuracy
 With TF IDF vectorizer: 84.8% accuracy (Best Model)
 #### AdaBoost using decision tree classifier
 With TF IDF vectorizer: 80.4% accuracy
-### Conclusion: The best model with the highest accuracy is linear SVC used
-with TF IDF vectorizer (84.8% accuracy)
+### Conclusion: The best model with the highest accuracy is linear SVC used with TF IDF vectorizer (84.8% accuracy)
 ### Data Set Summary:
 1. Data set used: polarity dataset v2.0
 2. 1000 text files for positive reviews, and 1000 text files for negative
@@ -38,4 +37,7 @@ whether the review is positive or negative
 3. Data visualization:
 #### Word cloud
 ![word cloud](https://user-images.githubusercontent.com/71910329/179066747-b7e568d6-c98e-48df-9e17-52b8d865d157.JPG)
+ 
+### Visualizing results
+![result](https://user-images.githubusercontent.com/71910329/179067258-450fded1-575b-4797-bf0a-262e546e6573.JPG)
 
